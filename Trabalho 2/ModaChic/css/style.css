@@ -1,0 +1,76 @@
+/* Reset básico */
+body {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+/* Classe - Menu */
+.menu {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid mediumvioletred;
+  background: #000000;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  margin: 20px;
+  color: #FFFFFF;
+  padding: 0;
+}
+
+li {
+  margin: 0 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+/* Classe - Banner */
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+/* Classe - Produtos */
+.produtos {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.produto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #E9EAE5;
+  width: 23%;
+  padding: 10px;
+}
+
+p {
+  margin: 6px;
+}
+
+img {
+  width: 100%;
+}
+
+/* Rodapé */
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #000000;
+  color: #FFFFFF;
+}
+
+footer p {
+  padding: 15px;
+}
