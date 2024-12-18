@@ -4,3 +4,10 @@
 Fala eternos Aprendizes, tudo bem? :vulcan_salute:
 
 Criei esse repositorio para compartilhar com vocês os tabalhos que eu estou desenvolvendo na faculdade da disciplina de Desenvolvimento Web. :dart:
+
+### O que você vai encontrar nesse repositorio 🔎
+
+* Trabalhos do básico ao intermediário
+* Links úteis
+
+>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
