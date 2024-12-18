@@ -1,5 +1,5 @@
 # Aprendendo Desenvolvimento Web <a name="id1"></a>
->*"Comece de onde você está. Use o que você tiver. Faça o que você puder" – Arthur Ashe*
+>*"E se, em vez de nos concentrarmos em quanto tempo alguma coisa levou, focarmos em quão longe nós conseguimos ir? - Benjamin Hardy*
 
 Fala eternos Aprendizes, tudo bem? :vulcan_salute:
 
